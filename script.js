@@ -186,7 +186,21 @@ function Projects() {
     title: '25+5 Clock (Pomodoro Timer)',
     description:
     'Built with React and CSS. This project implements a Pomodoro timer that helps users manage their work and break intervals efficiently. It includes a customizable session and break length, and it alerts users with a beep when the timer ends.',
-    link: 'https://teethedeveloper.github.io/pomodoro-timer.github.io/' }];
+    link: 'https://teethedeveloper.github.io/pomodoro-timer.github.io/' },
+
+  {
+    id: 4,
+    title: 'Web Music Player',
+    description:
+    'Drop the beat with Mike Drop — a fully custom music player built with pure HTML, CSS, and JavaScript. It rocks one playlist, smooth playback controls, a shuffle button, and a vibey audio visualizer. Designed to add rhythm and personality to the site while showing off frontend flair.',
+    link: 'https://teethedeveloper.github.io/HexSoftwares_Music_Player/' },
+
+  {
+    id: 5,
+    title: 'To-Do List',
+    description:
+    'Keep it together with Done & Dusted, a sleek task manager built using HTML, CSS, and JavaScript. Features include task creation, due dates, priorities, categories, reminders, dark mode, and smart filters—all wrapped in a clean, responsive UI. Built to boost productivity and showcase solid frontend logic.',
+    link: 'https://teethedeveloper.github.io/HexSoftwares_To_Do_List/' }];
 
 
 
